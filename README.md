@@ -1,11 +1,13 @@
-# kannapi-bot
+# Adora-Bot 
 
-കണ്ണാപി വാട്സ്ആപ്പ് ബോട്ട് 👣 
+A Simple WhatsApp Bot By TOXIC DEVIL
+
+###Set Up Adora
 
 > pkg install git
 > pkg install ffmpeg 
 > pkg install nodejs 
-> git clone https://github.com/mrravanan/kannapi-bot.git
-> cd kannapi-bot
+> git clone https://github.com/TOXIC-DEVIL/Adora-Bot.git
+> cd Adora-Bot
 > npm i
 > node index.js
