@@ -2,13 +2,19 @@
 
 A Simple WhatsApp Bot By TOXIC DEVIL
 
-###Set Up Adora
+# Set Up Adora
 ```
 pkg install git
-pkg install ffmpeg 
-pkg install nodejs 
+
+pkg install ffmpeg
+
+pkg install nodejs
+
 git clone https://github.com/TOXIC-DEVIL/Adora-Bot.git
+
 cd Adora-Bot
+
 npm i
+
 node index.js
 ```
