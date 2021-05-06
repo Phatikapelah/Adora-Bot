@@ -1,6 +1,6 @@
 # Adora-Bot 
 
-A Simple WhatsApp Bot By TOXIC DEVIL
+**A Simple WhatsApp Bot By TOXIC DEVIL**
 
 # Set Up Adora
 ```
